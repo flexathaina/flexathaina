@@ -14,8 +14,8 @@ Sou acadêmica do 4° período de Gestão de Tecnologia da Informação
 
 <div>
   <a href="https://github.com/flexathaina">
-     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=flexathaina&show_icons=true&theme=tokyonight">
-     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexathaina&layout=compact&theme=tokyonight">
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=flexathaina&show_icons=true&theme=tokyonight">
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexathaina&layout=compact&theme=tokyonight">
 </div>
   
   ##

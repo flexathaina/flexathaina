@@ -1,4 +1,4 @@
-## Olá! Sou Thainá Flexa 👩🏻
+## Olá! Sou Thainá Flexa, desenvolvedora Front-End em formação! 👩🏻
 
 Sou acadêmica do 4° período de Gestão de Tecnologia da Informação
 

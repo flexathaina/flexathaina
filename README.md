@@ -12,8 +12,12 @@ Sou acadêmica do 4° período de Gestão de Tecnologia da Informação
     <img align="center" alt="MicrosoftSqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div><br>
 
+<div>
+  <a href="https://github.com/flexathaina">
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=flexathaina&show_icons=true&theme=tokyonight">
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexathaina&layout=compact&theme=tokyonight">
+</div>
 
-  
   ##
 
 <div> 

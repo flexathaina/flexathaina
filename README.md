@@ -1,6 +1,6 @@
 ## Olá! Sou Thainá Flexa, Desenvolvedora Frontend em formação! 👩🏻
 
-Sou acadêmica do 4° período de Gestão de Tecnologia da Informação
+Sou acadêmica do 5° período de Gestão de Tecnologia da Informação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
